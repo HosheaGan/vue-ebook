@@ -8515,6 +8515,11 @@ wcwidth@^1.0.1:
   dependencies:
     defaults "^1.0.3"
 
+web-storage-cache@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/web-storage-cache/-/web-storage-cache-1.0.3.tgz#2eecc4f1f88c9c3c4c185381c9fdf5fe8d0c908c"
+  integrity sha1-LuzE8fiMnDxMGFOByf31/o0MkIw=
+
 webpack-bundle-analyzer@^3.3.0:
   version "3.3.2"
   resolved "https://registry.npm.taobao.org/webpack-bundle-analyzer/download/webpack-bundle-analyzer-3.3.2.tgz#3da733a900f515914e729fcebcd4c40dde71fc6f"
