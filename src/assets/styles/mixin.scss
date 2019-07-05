@@ -27,3 +27,13 @@ $ratio: 375 / 10;
   overflow: hidden;
   white-space: nowrap;
 }
+
+@mixin ellipsis2 ($line) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $line;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: normal;
+  word-break: keep-all;
+}
